@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	goconfig "github.com/kamalyes/go-config"
+	goconfig "github.com/HitGameAI/apex-cos"
 )
 
 // ConfigDiscovery 演示配置发现

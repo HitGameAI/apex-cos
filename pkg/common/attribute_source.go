@@ -15,7 +15,7 @@ import (
 	"net/textproto"
 	"net/url"
 
-	"github.com/kamalyes/go-argus"
+	"github.com/HitGameAI/apex-toolbox/pkg/argus"
 )
 
 // AttributeSourceType 属性提取来源类型

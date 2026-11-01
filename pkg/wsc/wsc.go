@@ -15,11 +15,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-config/pkg/common"
-	"github.com/kamalyes/go-config/pkg/logging"
-	"github.com/kamalyes/go-toolbox/pkg/mathx"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-cos/pkg/common"
+	"github.com/HitGameAI/apex-cos/pkg/logging"
+	"github.com/HitGameAI/apex-toolbox/pkg/mathx"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // WSC WebSocket 通信核心配置

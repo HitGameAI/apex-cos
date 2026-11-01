@@ -1,14 +1,14 @@
 # go-config
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/kamalyes/go-config.svg)](https://pkg.go.dev/github.com/kamalyes/go-config)
-[![Go Report Card](https://goreportcard.com/badge/github.com/kamalyes/go-config)](https://goreportcard.com/report/github.com/kamalyes/go-config)
-[![Tests](https://github.com/kamalyes/go-config/actions/workflows/test.yml/badge.svg)](https://github.com/kamalyes/go-config/actions/workflows/test.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/HitGameAI/apex-config.svg)](https://pkg.go.dev/github.com/HitGameAI/apex-config)
+[![Go Report Card](https://goreportcard.com/badge/github.com/HitGameAI/apex-config)](https://goreportcard.com/report/github.com/HitGameAI/apex-config)
+[![Tests](https://github.com/HitGameAI/apex-config/actions/workflows/test.yml/badge.svg)](https://github.com/HitGameAI/apex-config/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 一个功能强大且易于使用的 Go 配置管理库，支持多种配置格式、智能发现、热更新和环境隔离，为企业级应用提供开箱即用的配置管理解决方案。
 
 - **Go 版本**：`go 1.25.0`
-- **模块路径**：`github.com/kamalyes/go-config`
+- **模块路径**：`github.com/HitGameAI/apex-config`
 
 ## ✨ 核心特性
 
@@ -226,7 +226,7 @@ query 与 cookie 的键名**大小写敏感**，不会被归一化。
 ### 安装
 
 ```bash
-go get github.com/kamalyes/go-config
+go get github.com/HitGameAI/apex-config
 ```
 
 ### 最小示例
@@ -238,7 +238,7 @@ import (
  "fmt"
  "time"
 
- goconfig "github.com/kamalyes/go-config"
+ goconfig "github.com/HitGameAI/apex-config"
 )
 
 type AppConfig struct {

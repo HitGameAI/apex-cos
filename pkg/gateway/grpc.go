@@ -14,8 +14,8 @@ package gateway
 import (
 	"fmt"
 
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // GRPC GRPC服务配置（包含服务端和多个客户端）

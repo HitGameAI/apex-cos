@@ -14,8 +14,8 @@ package cache
 import (
 	"time"
 
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // Expiring 过期缓存配置

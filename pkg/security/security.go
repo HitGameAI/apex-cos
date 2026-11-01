@@ -12,8 +12,8 @@
 package security
 
 import (
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // Security 统一安全配置 - 直接使用Security而不是SecurityConfig

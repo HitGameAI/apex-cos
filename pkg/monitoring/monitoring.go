@@ -12,11 +12,11 @@
 package monitoring
 
 import (
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-config/pkg/grafana"
-	"github.com/kamalyes/go-config/pkg/jaeger"
-	"github.com/kamalyes/go-config/pkg/prometheus"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-cos/pkg/grafana"
+	"github.com/HitGameAI/apex-cos/pkg/jaeger"
+	"github.com/HitGameAI/apex-cos/pkg/prometheus"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // Monitoring 监控配置 - 去掉Config后缀

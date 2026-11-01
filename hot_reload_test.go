@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/go-viper/mapstructure/v2"
-	"github.com/kamalyes/go-config/pkg/gateway"
+	"github.com/HitGameAI/apex-cos/pkg/gateway"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

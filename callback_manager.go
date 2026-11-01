@@ -17,8 +17,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kamalyes/go-logger"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-toolbox/pkg/logger"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // CallbackType 回调类型枚举

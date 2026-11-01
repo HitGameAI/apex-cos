@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	goconfig "github.com/kamalyes/go-config"
-	"github.com/kamalyes/go-config/pkg/gateway"
+	goconfig "github.com/HitGameAI/apex-cos"
+	"github.com/HitGameAI/apex-cos/pkg/gateway"
 )
 
 // printCurrentConfig 打印当前配置的关键信息

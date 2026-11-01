@@ -14,7 +14,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	goconfig "github.com/kamalyes/go-config"
+	goconfig "github.com/HitGameAI/apex-cos"
 	"os"
 	"strings"
 )

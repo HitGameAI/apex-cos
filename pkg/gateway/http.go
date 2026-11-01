@@ -15,8 +15,8 @@ import (
 	"crypto/tls"
 	"fmt"
 
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // TLSVersion TLS 版本枚举

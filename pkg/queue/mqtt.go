@@ -12,8 +12,8 @@
 package queue
 
 import (
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // Mqtt 结构体用于配置 MQTT 相关参数

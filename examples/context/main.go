@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	goconfig "github.com/kamalyes/go-config"
-	"github.com/kamalyes/go-config/pkg/gateway"
+	goconfig "github.com/HitGameAI/apex-cos"
+	"github.com/HitGameAI/apex-cos/pkg/gateway"
 )
 
 // ContextIntegration 演示上下文集成

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	goconfig "github.com/kamalyes/go-config"
-	"github.com/kamalyes/go-config/pkg/gateway"
+	goconfig "github.com/HitGameAI/apex-cos"
+	"github.com/HitGameAI/apex-cos/pkg/gateway"
 )
 
 // Basic 演示基础配置使用

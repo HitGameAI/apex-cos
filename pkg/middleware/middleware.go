@@ -12,18 +12,18 @@
 package middleware
 
 import (
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-config/pkg/alerting"
-	"github.com/kamalyes/go-config/pkg/breaker"
-	"github.com/kamalyes/go-config/pkg/i18n"
-	"github.com/kamalyes/go-config/pkg/logging"
-	"github.com/kamalyes/go-config/pkg/metrics"
-	"github.com/kamalyes/go-config/pkg/pprof"
-	"github.com/kamalyes/go-config/pkg/recovery"
-	"github.com/kamalyes/go-config/pkg/shedder"
-	"github.com/kamalyes/go-config/pkg/signature"
-	"github.com/kamalyes/go-config/pkg/tracing"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-cos/pkg/alerting"
+	"github.com/HitGameAI/apex-cos/pkg/breaker"
+	"github.com/HitGameAI/apex-cos/pkg/i18n"
+	"github.com/HitGameAI/apex-cos/pkg/logging"
+	"github.com/HitGameAI/apex-cos/pkg/metrics"
+	"github.com/HitGameAI/apex-cos/pkg/pprof"
+	"github.com/HitGameAI/apex-cos/pkg/recovery"
+	"github.com/HitGameAI/apex-cos/pkg/shedder"
+	"github.com/HitGameAI/apex-cos/pkg/signature"
+	"github.com/HitGameAI/apex-cos/pkg/tracing"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // Middleware 中间件配置

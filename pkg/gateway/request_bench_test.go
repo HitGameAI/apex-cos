@@ -29,7 +29,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/kamalyes/go-config/pkg/common"
+	"github.com/HitGameAI/apex-cos/pkg/common"
 )
 
 // allDefaultSources 把默认配置里全部来源清单摊平成「每个属性一份清单」

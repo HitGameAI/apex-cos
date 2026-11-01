@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	goconfig "github.com/kamalyes/go-config"
-	"github.com/kamalyes/go-config/pkg/gateway"
+	goconfig "github.com/HitGameAI/apex-cos"
+	"github.com/HitGameAI/apex-cos/pkg/gateway"
 )
 
 // BuilderPatterns 演示构建器模式的各种用法

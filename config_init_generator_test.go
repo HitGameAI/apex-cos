@@ -15,7 +15,7 @@ import (
 	"os"
 	"testing"
 
-	gologger "github.com/kamalyes/go-logger"
+	gologger "github.com/HitGameAI/apex-toolbox/pkg/logger"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

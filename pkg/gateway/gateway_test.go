@@ -14,10 +14,10 @@ package gateway
 import (
 	"testing"
 
-	"github.com/kamalyes/go-config/pkg/banner"
-	"github.com/kamalyes/go-config/pkg/cors"
-	"github.com/kamalyes/go-config/pkg/jwt"
-	"github.com/kamalyes/go-toolbox/pkg/safe"
+	"github.com/HitGameAI/apex-cos/pkg/banner"
+	"github.com/HitGameAI/apex-cos/pkg/cors"
+	"github.com/HitGameAI/apex-cos/pkg/jwt"
+	"github.com/HitGameAI/apex-toolbox/pkg/safe"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -27,7 +27,7 @@ func TestBanner_Default(t *testing.T) {
 	assert.Equal(t, "A high-performance RPC gateway service", banner.Description)
 	assert.Equal(t, "kamalyes", banner.Author)
 	assert.Equal(t, "501893067@qq.com", banner.Email)
-	assert.Equal(t, "https://github.com/kamalyes/go-rpc-gateway", banner.Website)
+	assert.Equal(t, "https://github.com/HitGameAI/apex-rpc-gateway", banner.Website)
 }
 
 func TestBanner_WithTitle(t *testing.T) {

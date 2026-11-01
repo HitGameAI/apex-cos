@@ -21,8 +21,8 @@
 package queue
 
 import (
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // JetStream 存储后端（对应官方 nats.StorageType）

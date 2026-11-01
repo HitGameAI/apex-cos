@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/kamalyes/go-logger"
+	"github.com/HitGameAI/apex-toolbox/pkg/logger"
 )
 
 // ConfigBuilder 配置构建器接口

@@ -14,7 +14,7 @@ import (
 	"encoding/json"
 	"sync"
 
-	"github.com/kamalyes/go-argus"
+	"github.com/HitGameAI/apex-toolbox/pkg/argus"
 	"gopkg.in/yaml.v3"
 )
 

@@ -14,7 +14,7 @@ package goconfig
 import (
 	"fmt"
 
-	"github.com/kamalyes/go-logger"
+	"github.com/HitGameAI/apex-toolbox/pkg/logger"
 )
 
 // ConfigFormatter 配置格式化器

@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kamalyes/go-config/pkg/common"
+	"github.com/HitGameAI/apex-cos/pkg/common"
 	"github.com/stretchr/testify/assert"
 )
 

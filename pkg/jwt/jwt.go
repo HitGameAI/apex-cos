@@ -12,8 +12,8 @@
 package jwt
 
 import (
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // JWT 结构体用于配置 JSON Web Token 的相关参数

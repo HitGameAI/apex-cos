@@ -12,8 +12,8 @@
 package banner
 
 import (
-	"github.com/kamalyes/go-config/internal"
-	"github.com/kamalyes/go-toolbox/pkg/syncx"
+	"github.com/HitGameAI/apex-cos/internal"
+	"github.com/HitGameAI/apex-toolbox/pkg/syncx"
 )
 
 // Banner Banner配置
@@ -46,7 +46,7 @@ func Default() *Banner {
 		Description: "A high-performance RPC gateway service",
 		Author:      "kamalyes",
 		Email:       "501893067@qq.com",
-		Website:     "https://github.com/kamalyes/go-rpc-gateway",
+		Website:     "https://github.com/HitGameAI/apex-rpc-gateway",
 	}
 }
 
