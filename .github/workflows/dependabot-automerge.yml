@@ -35,7 +35,7 @@ jobs:
       # tests rather than a bad pattern. Only the matrix jobs are matched, leaving out the
       # config-resolution job, which is not a quality gate
       - name: Wait for check is finished
-        uses: lewagon/wait-on-check-action@v1.4.1
+        uses: lewagon/wait-on-check-action@v1.9.1
         id: wait_for_checks
         with:
           ref: ${{ github.event.pull_request.head.sha || github.sha }}
