@@ -380,6 +380,10 @@ logging:
         - payoutAccountSummary
         - firebase_detail_json
         - firebaseDetailJson
+        - credential_params
+        - credentialParams
+        - last_pay_card
+        - lastPayCard
     slow-http-threshold: 1000
     slow-grpc-threshold: 1000
     slow-stream-threshold: 5000

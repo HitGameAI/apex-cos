@@ -103,6 +103,7 @@ func Default() *Logging {
 			"push_token", "pushToken", "card_number", "cardNumber", "bank_card", "bankCard",
 			"payout_account_summary", "payoutAccountSummary",
 			"firebase_detail_json", "firebaseDetailJson",
+			"credential_params", "credentialParams", "last_pay_card", "lastPayCard",
 			"cvv",
 		},
 		SlowHTTPThreshold:    1000,

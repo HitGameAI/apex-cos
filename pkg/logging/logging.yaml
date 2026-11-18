@@ -104,6 +104,10 @@ sensitive-keys:
     - payoutAccountSummary
     - firebase_detail_json
     - firebaseDetailJson
+    - credential_params
+    - credentialParams
+    - last_pay_card
+    - lastPayCard
 # HTTP慢请求阈值(毫秒)
 slow-http-threshold: 1000
 # GRPC慢请求阈值(毫秒)
