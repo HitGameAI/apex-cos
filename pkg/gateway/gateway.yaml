@@ -1036,6 +1036,42 @@ middleware:
             - phone
             - id_card
             - credit_card
+            - private_key
+            - privateKey
+            - private_params
+            - privateParams
+            - merchant_key
+            - merchantKey
+            - merchant_secret
+            - merchantSecret
+            - system_key
+            - systemKey
+            - app_key
+            - appKey
+            - bank_account_no
+            - bankAccountNo
+            - bank_account_name
+            - bankAccountName
+            - account_value
+            - accountValue
+            - wallet_address
+            - walletAddress
+            - payee_account
+            - payeeAccount
+            - payee_name
+            - payeeName
+            - push_token
+            - pushToken
+            - card_number
+            - cardNumber
+            - bank_card
+            - bankCard
+            - creditCard
+            - cvv
+            - payout_account_summary
+            - payoutAccountSummary
+            - firebase_detail_json
+            - firebaseDetailJson
         slow-http-threshold: 1000
         slow-grpc-threshold: 1000
         slow-stream-threshold: 5000
@@ -1693,6 +1729,42 @@ wsc:
             - phone
             - id_card
             - credit_card
+            - private_key
+            - privateKey
+            - private_params
+            - privateParams
+            - merchant_key
+            - merchantKey
+            - merchant_secret
+            - merchantSecret
+            - system_key
+            - systemKey
+            - app_key
+            - appKey
+            - bank_account_no
+            - bankAccountNo
+            - bank_account_name
+            - bankAccountName
+            - account_value
+            - accountValue
+            - wallet_address
+            - walletAddress
+            - payee_account
+            - payeeAccount
+            - payee_name
+            - payeeName
+            - push_token
+            - pushToken
+            - card_number
+            - cardNumber
+            - bank_card
+            - bankCard
+            - creditCard
+            - cvv
+            - payout_account_summary
+            - payoutAccountSummary
+            - firebase_detail_json
+            - firebaseDetailJson
         slow-http-threshold: 1000
         slow-grpc-threshold: 1000
         slow-stream-threshold: 5000
